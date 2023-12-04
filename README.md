@@ -14,9 +14,18 @@ What is Lua?
 - Lua is implemented as a library, written in clean C.
 
 For more information on scripting with Lua see:
-- [Lua Docs](www.lua.org)
+- [Lua Docs](https://www.lua.org/)
 
 GrandMA2 with Lua
 - The GrandMA2 software supports Lua version 5.2.
 
 ### Documents
+
+Keycodes
+- This is a document that shows a table of Keycodes that have been discovered for the gma.canbus.hardkey() function.
+
+Default Variables
+- This is a document that shows a table of Default Variables that have been discovered for the gma.show.getvar() function.
+
+GMA2 Lua API
+- This is a comprehensive API document that defines all of the current Lua modules and functions within the GrandMA2 system.
