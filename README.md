@@ -1,36 +1,36 @@
 # GrandMA2 API Documentation for Lua Scripting
 
-A library of GrandMA2 specific Lua Functions.
+## Introduction
+Welcome to the comprehensive API documentation for Lua scripting in the GrandMA2 system. This serves as a go-to resource for Lighting Programmers looking to enhance their understanding and extend the capabilities of the GrandMA2 system. Explore detailed descriptions and basic syntax for all current GMA2 system functions.
 
-### Please Read - Very Important!
+## Description
+This project aims to empower Lighting Programmers by providing comprehensive documentation for interacting with the GrandMA2 System using Lua scripting. Whether you're a seasoned developer or just starting, this documentation serves as a solid foundation for navigating and utilizing the capabilities of Lua in the GrandMA2 environment.
 
-This API documentation is always changing based on new discovery's from readers like yourself.
+## Main Features
+* **GMA2 Lua API:** A well-organized guide featuring each function's description, ensuring a clear understanding of the available features.
+* **Modules:** Dedicated modules with detailed information on the basic syntax of functions in the Lua programming language, specifically designed for the GrandMA2 System.
+* **Specialized Documents:** Documents for specific modules, such as a Default Variables guide for the gma.show.getvar() function in the gma.show module, and a Keycodes document for the gma.canbus.hardkey() function in the gma.canbus module.
 
-If you have any questions about this documentation or would like to contribute to it, please contact me at [MacTirneyAV@gmail.com]().
+## Future Updates
+I hope to update this project with real-world examples using the above Lua functions. This update will provide Lighting Programmers with practical, real-world examples that allow for a quick start and easy iteration. 
 
-What is Lua?
-- Lua is a scripting language designed to support general procedural programming.
-- It offers support for object-oriented programming, functional programming, and data-driven programming. 
-- Lua is implemented as a library, written in clean C.
+## What is Lua?
+Lua is a scripting language designed to support general procedural programming.
+It offers support for object-oriented programming, functional programming, and data-driven programming. 
+Lua is implemented as a library, written in clean C.
 
-For more information on scripting with Lua see:
-- [Lua Docs](https://www.lua.org/)
+The GrandMA2 software currently supports Lua version 5.2.
 
-GrandMA2 with Lua
-- The GrandMA2 software supports Lua version 5.2.
+For more information on scripting with Lua see: [Lua Docs](www.lua.org).
 
-### Specific Documents
+## A Note to the User
+This API documentation is always changing based on new discoveries from readers like yourself.
 
-Keycodes
-- This is a document that shows a table of Keycodes that have been discovered for the gma.canbus.hardkey() function.
+## Contributing
+We encourage developers to contribute and help us improve this project's effectiveness. Feel free to open issues, suggest changes, and make the project more beneficial for everyone.
 
-Default Variables
-- This is a document that shows a table of Default Variables that have been discovered for the gma.show.getvar() function.
+## Connecting with the Author
+If you have any questions about this documentation, please contact me at [MacTirneyAV@gmail.com]().
 
-GMA2 Lua API - Master File
-- This is a comprehensive API document that defines all of the current Lua modules and functions within the GrandMA2 system.
-
-Modules
-- This is a more organized approach for user's looking for a specific function in the API documentation.
-- Each module is broken up into an API document that corresponds to that module w/ their specific functions.
-- It also holds a lua doc that showcases each function in lua code.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
