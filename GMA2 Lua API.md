@@ -4,7 +4,7 @@
 - gma.
     - General GMA Lua functions.
 - gma.canbus
-    - Canbus related GMA Lua functions   .
+    - Canbus related GMA Lua functions.
 - gma.gui
     - GUI Related GMA Lua functions.
 - gma.gui.progress
