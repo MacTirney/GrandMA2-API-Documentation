@@ -30,7 +30,7 @@ This API documentation is always changing based on new discoveries from readers 
 We encourage developers to contribute and help us improve this project's effectiveness. Feel free to open issues, suggest changes, and make the project more beneficial for everyone.
 
 ## Connecting with the Author
-If you have any questions about this documentation, please contact me at [MacTirneyAV@gmail.com]().
+If you have any questions about this documentation, please contact me at [mactirneyav@gmail.com]().
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
